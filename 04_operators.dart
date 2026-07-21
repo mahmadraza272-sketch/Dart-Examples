@@ -1,21 +1,18 @@
 void main() {
   int a = 20;
   int b = 10;
-
-  // Arithmetic Operators
+ // Arithmetic Operators
   print("Addition: ${a + b}");
   print("Subtraction: ${a - b}");
   print("Multiplication: ${a * b}");
   print("Division: ${a / b}");
   print("Remainder: ${a % b}");
-
-  // Comparison Operators
+// Comparison Operators
   print(a > b);
   print(a < b);
   print(a == b);
   print(a != b);
-
-  // Logical Operators
+// Logical Operators
   bool isStudent = true;
   bool isLearningDart = true;
 
